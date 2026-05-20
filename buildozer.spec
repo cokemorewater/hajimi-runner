@@ -3,6 +3,9 @@
 # 应用名称
 title = 哈基米南北路多
 
+# 应用版本
+version = 1.0.0
+
 # 包名（唯一标识）
 package.name = hajimirunner
 
