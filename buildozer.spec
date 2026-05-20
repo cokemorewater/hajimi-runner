@@ -28,6 +28,10 @@ android.minapi = 21
 # SDK 和 NDK
 android.sdk = 34
 android.ndk = 27
+android.build_tools = 34.0.0
+
+# 接受 Android SDK 许可协议
+android.accept_sdk_license = True
 
 # 屏幕方向（竖屏）
 orientation = portrait
@@ -84,9 +88,6 @@ bin_dir = ./bin
 
 # 下载目录
 download_dir = ./.buildozer/downloads
-
-# 使用之前下载的 SDK/NDK
-android.accept_sdk_license = True
 
 # 当出现警告时继续构建
 warn_on_root = 1
