@@ -1,0 +1,29 @@
+# Buildozer
+.buildozer/
+build/
+bin/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+debug_frames/
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+
+# Build artifacts
+dist/
+*.spec
+
+# Local settings
+*.local
