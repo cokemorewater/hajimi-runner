@@ -23,7 +23,8 @@ debug_frames/
 
 # Build artifacts
 dist/
-*.spec
+# Exclude PyInstaller spec files but NOT buildozer.spec
+HajimiRunner.spec
 
 # Local settings
 *.local
