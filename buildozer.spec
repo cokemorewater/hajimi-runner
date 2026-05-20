@@ -19,7 +19,7 @@ source.dir = .
 source.main = main.py
 
 # Python 版本
-python.version = 3.12
+python.version = 3.11
 
 # Android API 级别
 android.api = 34
