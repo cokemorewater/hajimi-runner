@@ -27,7 +27,7 @@ android.minapi = 21
 
 # SDK 和 NDK
 android.sdk = 34
-android.ndk = 27
+android.ndk = 26
 android.build_tools = 34.0.0
 
 # 接受 Android SDK 许可协议
